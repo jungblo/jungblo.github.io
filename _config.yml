@@ -28,21 +28,21 @@ my:
     displayName: 째깍악어
     realName: 째깍이
     realName_cn: 째깍이
-    jobTitle: "PHP Coder"
+    jobTitle: "Coder"
     contact:
-        qq: 744910240
-        email: fanghao90s@gmail.com
+        qq: 000
+        email: @
         github: http://www.github.com/UniFreak
         qzone: http://744910240.qzone.qq.com
         pinterest: https://www.pinterest.com/miblah/
-        tel: 153 6999 7084
+        tel: 000
         address:
-            country: China
-            state: Beijing
-            city: Beijing
-            distribute: ChaoYang
+            country: 123
+            state: 123
+            city: 123
+            distribute: 123
             postcode: 000000
-            cell: "Wangxin Garden"
+            cell: "어디어디"
     skills:
         frontend: ["HTML | Markdown", "CSS | SASS", "JS | jQuery", "Bootstrap"]
         backend: ["PHP", "Python", "Shell", MySQL", "Redis", "Regex", "Laravel", "Lumen"]
