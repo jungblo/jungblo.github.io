@@ -15,18 +15,6 @@
 
 {% if displayPagi or paginator %}
 <div class="row" id="paginator">
-    <ul class="col-lg-2" id="filterList">
-        {% assign idx = 0 %}
-        {% for category in site.categories %}
-            <li {% if idx == 0 %} class="current" {% endif %} data-show="{{ category | first }}">
-                <a href="javascript:void(0)">
-                {{ category | first }}
-                <span class="cateCnt">{{ category | last | size }}</span>
-                </a>
-            </li>
-            {% assign idx = idx | plus: 1 %}
-        {% endfor %}
-    </ul>
     {% if paginator.total_pages > 1 %}
         {% if paginator.previous_page %}
             <a href="{{ paginator.previous_page_path | prepend: crturl }}">«</a>
