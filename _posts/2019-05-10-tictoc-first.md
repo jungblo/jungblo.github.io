@@ -92,11 +92,11 @@ __진하게__
 
 
 이미지 링크 `[이미지 alt 내용](경로)`
-![틱톡](/images/posts/201806/vimium.jpg)
+![틱톡](/images/posts/201905/tictic.png)
 아래 코드 참조
 ```python
 
-![틱톡](/images/posts/201806/vimium.jpg)
+![틱톡](/images/posts/201905/tictic.png)
 
 ```
 
