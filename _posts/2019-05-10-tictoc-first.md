@@ -14,7 +14,7 @@ GITHUB 를 이용한 째깍악어 기술 블로그 작성 설명 및 운영방�
 
 
 
-상단에 아래와 같이 --- 중간 부분에 작성하여 게시글의 title, layout, category, tags, excerpt 를 작성합니다.
+글작성시 최상단에 아래와 같이 --- 중간 부분에 작성하여 게시글의 title, layout, category, tags, excerpt 를 작성합니다.
 
 ```python
 ---
@@ -90,7 +90,7 @@ __진하게__
 
 
 
-이미지 링크 [이미지 alt 내용](경로)
+이미지 링크 `[이미지 alt 내용](경로)`
 ![틱톡](/images/posts/201806/vimium.jpg)
 
 ```python
