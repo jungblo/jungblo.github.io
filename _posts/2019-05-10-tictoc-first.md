@@ -148,6 +148,7 @@ import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe0
 >-- by.째깍이
 
 아래 코드 참조
+
 ```python
 
 대제목 형식
@@ -155,4 +156,4 @@ import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe0
 >
 >-- by.째깍이
 
-```python
+```
