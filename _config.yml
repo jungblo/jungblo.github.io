@@ -37,12 +37,12 @@ my:
         pinterest: https://www.pinterest.com/miblah/
         tel: 010-0000-0000
         address:
-            country: 성수일로12길 20
+            country: 서울시
             state: 성동구 
-            city: 서울시
-            distribute: 째깍
+            city: 성수일로12길 20
+            distribute: 째깍악어
             postcode: 04793
-            cell: "개발 담당"
+            cell: ""
     skills:
         frontend: ["HTML", "CSS", "JS | jQuery", "Bootstrap", "React Native"]
         backend: ["PHP", "Python", "Shell", MySQL", "DJango"]
