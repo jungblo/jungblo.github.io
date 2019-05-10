@@ -72,9 +72,10 @@ __진하게__
 
 - __리스트 형식__
 아래 코드 참조
+
 ```python
 
-- __리스트 형식__
+`- __리스트 형식__`
 
 ```
 
@@ -127,6 +128,7 @@ import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe0
 
 
  | 옆으로 글자가 붙지 않도록 띄어쓰기에 주의하세요.
+ 
 아래 코드 참조
 ```python
 
