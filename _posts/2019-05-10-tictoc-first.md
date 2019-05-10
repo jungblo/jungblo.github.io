@@ -127,7 +127,7 @@ import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe0
   | 4번 분류 | 네번째 내용 |
 
 
- | 옆으로 글자가 붙지 않도록 띄어쓰기에 주의하세요.
+ 옆으로 글자가 붙지 않도록 띄어쓰기에 주의하세요.
  
 아래 코드 참조
 ```python
