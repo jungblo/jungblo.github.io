@@ -31,7 +31,7 @@ excerpt: "GITHUB 를 이용한 째깍악어 기술 블로그 작성 설명 및 �
 
 
 # 제목작성 (줄 진하게)
-
+아래 코드 참조
 ```python
 
 # 제목작성 (줄 진하게)
@@ -41,7 +41,7 @@ excerpt: "GITHUB 를 이용한 째깍악어 기술 블로그 작성 설명 및 �
 
 
 ## 제목작성 (줄 연하게)
-
+아래 코드 참조
 ```python
 
 ## 제목작성 (줄 연하게)
@@ -51,7 +51,7 @@ excerpt: "GITHUB 를 이용한 째깍악어 기술 블로그 작성 설명 및 �
 
 
 링크 : <http://ttcroc.com>
-
+아래 코드 참조
 ```python
 
 링크 : <http://ttcroc.com>
@@ -61,7 +61,7 @@ excerpt: "GITHUB 를 이용한 째깍악어 기술 블로그 작성 설명 및 �
 
 
 __진하게__
-
+아래 코드 참조
 ```python
 
 __진하게__
@@ -71,7 +71,7 @@ __진하게__
 
 
 - __리스트 형식__
-
+아래 코드 참조
 ```python
 
 - __리스트 형식__
@@ -81,7 +81,7 @@ __진하게__
 
 
 `키박스`
-
+아래 코드 참조
 ```python
 
 `키박스`
@@ -92,7 +92,7 @@ __진하게__
 
 이미지 링크 `[이미지 alt 내용](경로)`
 ![틱톡](/images/posts/201806/vimium.jpg)
-
+아래 코드 참조
 ```python
 
 ![틱톡](/images/posts/201806/vimium.jpg)
@@ -105,7 +105,7 @@ __진하게__
 import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)
 ```
 위의 창을 `을 이용하여 감싸줍니다.
-
+아래 코드 참조
 ```python
 
 　```python
@@ -127,7 +127,7 @@ import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe0
 
 
  | 옆으로 글자가 붙지 않도록 띄어쓰기에 주의하세요.
-
+아래 코드 참조
 ```python
 
 | 분류 | 내용 |
