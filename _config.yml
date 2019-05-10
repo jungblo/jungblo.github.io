@@ -44,9 +44,9 @@ my:
             postcode: 000000
             cell: "어디어디"
     skills:
-        frontend: ["HTML | Markdown", "CSS | SASS", "JS | jQuery", "Bootstrap"]
-        backend: ["PHP", "Python", "Shell", MySQL", "Redis", "Regex", "Laravel", "Lumen"]
-        tools: ["Sublime Text", "Git | Github", "Linux", "Jekyll | Liquid"]
+        frontend: ["HTML", "CSS", "JS | jQuery", "Bootstrap", "React Native"]
+        backend: ["PHP", "Python", "Shell", MySQL", "DJango"]
+        tools: ["Sublime Text", "Git | Github", "Linux", "Jekyll", "Vscode"]
 
 collections:
     qqGroupGuide:
