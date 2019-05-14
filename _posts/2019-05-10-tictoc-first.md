@@ -20,6 +20,7 @@ GITHUB 를 이용한 째깍악어 기술 블로그 작성 설명 및 운영방�
 ```python
 ---
 title: "째깍악어 테스트 첫번째 글"
+name: 정블로
 layout: post
 category: 사용방법
 tags: [React Native, php, Django, Mysql]
