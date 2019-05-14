@@ -51,6 +51,9 @@ my:
 collections:
     qqGroupGuide:
         output: true
+    authors:
+        output: true
+        permalink: /authors/:path/
 
 defaults:
   - scope:
@@ -63,3 +66,8 @@ defaults:
         type: "qqGroupGuide"
     values:
         layout: markdownreader_bare
+  - scope:
+      path: ''
+      type: authors
+    values:
+      layout: author
