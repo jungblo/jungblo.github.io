@@ -50,7 +50,6 @@ my:
 
 collections:
     qqGroupGuide:
-        output: true
     authors:
         output: true
         permalink: /authors/:path/
