@@ -1,5 +1,6 @@
 ---
 title: "Tutorials Point error handling"
+name: 연경모
 layout: post
 category: 트러블슈팅
 tags: [React Native]

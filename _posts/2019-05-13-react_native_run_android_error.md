@@ -1,5 +1,6 @@
 ---
 title: "react-native run-android 시 발생하는 에러"
+name: 연경모
 layout: post
 category: 트러블슈팅
 tags: [React Native]
