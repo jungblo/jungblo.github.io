@@ -45,7 +45,7 @@ my:
             cell: ""
     skills:
         frontend: ["HTML", "CSS", "JS | jQuery", "Bootstrap", "React Native"]
-        backend: ["PHP", "Python", "Shell", MySQL", "DJango"]
+        backend: ["PHP", "Python", "Shell", "MySQL", "DJango"]
         tools: ["Sublime Text", "Git | Github", "Linux", "Jekyll", "Vscode"]
 
 collections:
