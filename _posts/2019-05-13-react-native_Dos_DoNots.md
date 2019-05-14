@@ -3,7 +3,7 @@ title: "기본 문법과 프레임워크 특징"
 name: 연경모
 layout: post
 category: 사용방법
-tags: [React Native]
+tags: [ReactNative]
 excerpt: "되는 것과 안 되는 것 모음"
 ---
 

@@ -3,7 +3,7 @@ title: "Tutorials Point error handling"
 name: 연경모
 layout: post
 category: 트러블슈팅
-tags: [React Native]
+tags: [ReactNative]
 excerpt: "Tutorials Point 를 따라가다 보면 나는 잘못한 게 없는데 에러가 나는 경우"
 ---
 

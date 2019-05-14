@@ -3,7 +3,7 @@ title: "react-native run-android 시 발생하는 에러"
 name: 연경모
 layout: post
 category: 트러블슈팅
-tags: [React Native]
+tags: [ReactNative]
 excerpt: "react-native run-android 실행시 발생 가능한 2 가지 에러에 관하여."
 ---
 

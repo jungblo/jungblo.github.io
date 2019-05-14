@@ -3,7 +3,7 @@ title: "React-native 환경설정 부분"
 name: 연경모
 layout: post
 category: 환경설정
-tags: [React Native]
+tags: [ReactNative]
 excerpt: "환경설정 과정 에서의 트러블슈팅 노트"
 ---
 
