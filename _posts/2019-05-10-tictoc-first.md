@@ -1,5 +1,6 @@
 ---
 title: "째깍악어 테스트 첫번째 글"
+author: ["정블로"]
 layout: post
 category: 사용방법
 tags: [React Native, php, Django, Mysql]
