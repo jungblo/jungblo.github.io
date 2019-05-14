@@ -1,5 +1,3 @@
-
-
 ---
 title: "Tutorials Point error handling"
 layout: post
