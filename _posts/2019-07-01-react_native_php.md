@@ -66,31 +66,27 @@ objectToArray() 함수에서 문자열 인덱스 배열을 일반 배열로 변�
 React Native로 값을 리턴할때는 React Native에서 어떻게 받느냐에 따라 달라진다
 
 ```php
-        <?php
-        <!-- 1 -->
-        $result_arr = array
-        (
-        'result_1'     => $result_1,
-        'result_2'     => $result_2,
-        'result_3' 	  => $result_3
-        );
-        $json_result=json_encode($result_arr);
-        echo $json_result;
-        ?>
-        
-        
-        
-        
-        <!-- 2 -->
-        <script>
-         $(document).ready(function(){
- 
-          $(".ok_enter").click(function(){
-           window.postMessage("ok_enter_value");
-          });
- 
-         });
-        </script>
+<?php
+<!-- 1 -->
+$result_arr = array
+(
+'result_1'     => $result_1,
+'result_2'     => $result_2,
+'result_3' 	  => $result_3
+);
+$json_result=json_encode($result_arr);
+echo $json_result;
+?>
+```
+```script
+<!-- 2 -->
+<script>
+ $(document).ready(function(){
+  $(".ok_enter").click(function(){
+   window.postMessage("ok_enter_value");
+  });
+ });
+</script>
 ```
 
 상황에 따라 php로 값을 전달하기만 하고 리턴을 받지 않을수도 있지만
