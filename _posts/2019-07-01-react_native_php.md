@@ -79,9 +79,9 @@ echo $json_result;
 ?>
 ```
   
-#
+<br>
 
-```html
+```javascript
 <!-- 2 -->
 <script>
  $(document).ready(function(){
