@@ -70,13 +70,13 @@ React Native로 값을 리턴할때는 React Native에서 어떻게 받느냐에
 
         <!-- 1 -->
         $result_arr = array
-								(
+        (
         'result_1'     => $result_1,
         'result_2'     => $result_2,
         'result_3' 	  => $result_3
         );
-								$json_result=json_encode($result_arr);
-								echo $json_result;
+        $json_result=json_encode($result_arr);
+        echo $json_result;
         
         
         
