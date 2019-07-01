@@ -78,7 +78,7 @@ $json_result=json_encode($result_arr);
 echo $json_result;
 ?>
 ```
-```script
+```html
 <!-- 2 -->
 <script>
  $(document).ready(function(){
