@@ -9,7 +9,7 @@ excerpt: "React Native 에서 webview 로 데이터를 보냈을때 값을 받�
 
 React Native 에서 webview 로 데이터를 보냈을때 값을 받고 결과값을 return 해보기 (json 응용)
 
-# 데이터 받기
+# 데이터 주고받기
 
 프로젝트를 React Native에서 개발을 하다보면 어쩔수 없이 webview로 처리해야하는 경우가 부분적으로 생길 수 있다
 webview로 처리했을때의 장점은 개발 진행의 가시성이 높고 유지보수에 용이하다는것이다
@@ -80,6 +80,7 @@ echo $json_result;
 ```
   
 #
+
 ```html
 <!-- 2 -->
 <script>
