@@ -69,17 +69,14 @@ React Native로 값을 리턴할때는 React Native에서 어떻게 받느냐에
 
 
         <!-- 1 -->
-        $price_arr = array
+        $result_arr = array
 								(
-											'price_1'     => $cal_service_price_1,
-											'price_2'     => $cal_service_price_2,
-											'price_3' 	  => $cal_service_price_3,
-											'price_4'	  => $cal_service_price_4,
-											'price_5'	  => $cal_service_price_5,
-											'price_6'	  => $cal_service_price_6
+								 'result_1'     => $result_1,
+									'result_2'     => $result_2,
+									'result_3' 	  => $result_3
 								);
 								
-								$json_result=json_encode($price_arr);
+								$json_result=json_encode($result_arr);
 
 								echo $json_result;
         
