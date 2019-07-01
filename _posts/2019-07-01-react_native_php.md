@@ -100,7 +100,8 @@ React Native로 값을 리턴할때는 React Native에서 어떻게 받느냐에
 php에서 내부적인 DB처리 또는 결과 값을 뽑은후 다시 React Native 로 리턴이 필요 할 수 있다
 
 - __1. React Native 에서 webview를 띄운 화면에 위와 같이 결과 값을 echo 를 찍어서 React Native에서 해당 값들을 확인 할 수 있다. 예제1은 json을 응용한 전달방식이다.__
-- __2. 클릭 이벤트를 통해 값을 전달해야 하는 경우 위와 같이 script 를 사용하여 전달 할 수 있다. 이때 핵심은 window.postMessage 이다.(참조 : <https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage>)__ 
+- __2. 클릭 이벤트를 통해 값을 전달해야 하는 경우 위와 같이 script 를 사용하여 전달 할 수 있다. 이때 핵심은 window.postMessage 이다.
+(참조 : <https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage>)__ 
 - __3. 여러 방법으로 데이터를 보낼 수 있지만 curl을 사용하여 값을 전달하여도 무방하다.__
 
 중요한 점은 네이티브앱과 웹페이지 간의 코드균형을 적절히 맞춰 개발 해 나간다면 앱 자체는 약간의 하이브리드 형태가 될 수 있지만
